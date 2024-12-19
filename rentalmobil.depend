@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733302799 source:c:\users\nuc\onedrive - telkom university\documents\tel u\semester 3\strukdat\tubes\rentalmobil\rental.cpp
+	"rental.h"
+
+1733308938 c:\users\nuc\onedrive - telkom university\documents\tel u\semester 3\strukdat\tubes\rentalmobil\rental.h
+	<iostream>
+	<string>
+
+1733308874 source:c:\users\nuc\onedrive - telkom university\documents\tel u\semester 3\strukdat\tubes\rentalmobil\main.cpp
+	"rental.h"
+
